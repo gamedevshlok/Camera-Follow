@@ -1,2 +1,2 @@
 # Smooth-Camera-Follow
-Script to make Smooth Camera movementin unity
+Script to make Smooth Camera movement in unity
